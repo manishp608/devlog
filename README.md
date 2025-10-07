@@ -6,3 +6,5 @@ Made 2 blogs till now.
 - Pong
 
 - Working on more ...
+
+New page addition possible.
