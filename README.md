@@ -6,6 +6,6 @@ Made 2 blogs till now.
 - Countdown timer
 - Pong
 
-- Working on more ...
+- Working on it ...
 
 New page addition possible.
