@@ -10,4 +10,4 @@ Made 2 blogs till now.
 
 New page addition possible.
 
-- Working on it ...
+- Future updates to be done.
